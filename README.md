@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @ShubhranshuPattnaik
-- 👀 I’m interested in the field of ML and Robotics
-- 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on projects related to ML
-- 📫 You can connect with me at https://www.linkedin.com/in/shubhranshu-pattnaik-657279128/
-
+Aspiring Data Scientist with a background in Applied Data Science, currently pursuing an MS in the field. Skilled in machine learning, data science, and full-stack software development, with a knack for solving complex problems and a proven ability to lead teams effectively. Passionate about leveraging data-driven insights to drive innovation and impact.
